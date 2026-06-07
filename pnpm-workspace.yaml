@@ -1,0 +1,4 @@
+# pnpm 11 reads project settings from here
+verifyDepsBeforeRun: false
+onlyBuiltDependencies:
+  - esbuild
