@@ -12,7 +12,7 @@ export default function About() {
           </div>
           <div className="about-copy">
             <p className="label reveal d1">Hello! I'm</p>
-            <h2 className="reveal d2">Keli Mus</h2>
+            <h2 className="reveal d2">Urmila Choudhary</h2>
             <p className="label sub reveal d3">— About Me</p>
             <p className="bio reveal d4">
               Me defino como una <b>publicista creativa</b>, <b>creadora de contenido</b> y{' '}

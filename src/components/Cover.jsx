@@ -3,8 +3,8 @@ import Wordmark from './Wordmark.jsx'
 export default function Cover() {
   return (
     <section id="cover">
-      <span className="corner tl">Keli Mus</span>
-      <span className="corner br">Keli Mus</span>
+      <span className="corner tl">Urmila Choudhary</span>
+      <span className="corner br">Urmila Choudhary</span>
       <Wordmark className="muse-top reveal" />
       <h1 className="big reveal d1">
         <span className="row">PORT</span>

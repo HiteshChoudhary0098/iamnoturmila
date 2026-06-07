@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "MUSE. — Keli Mus portfolio site (React + Vite)",
+  "description": "MUSE. — Urmila Choudhary portfolio site (React + Vite)",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
