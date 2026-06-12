@@ -114,6 +114,19 @@ section {
 }
 #cover .big .row { display: block; }
 #cover .big .stretch { display: inline-block; transform: scaleX(1.18); transform-origin: center; }
+
+#cover .medium {
+  margin-top: 15px;
+  font-family: 'Yesteryear', 'Playfair Display', serif;
+  color: var(--ink);
+  line-height: .9;
+  letter-spacing: .01em;
+  font-weight: 400;
+  font-size: clamp(54px, 10.5vw, 150px);
+}
+#cover .medium .row { display: block; }
+#cover .medium .stretch { display: inline-block; transform: scaleX(1); transform-origin: center; }
+
 #cover .year {
   font-family: 'Playfair Display', serif;
   color: var(--gold);

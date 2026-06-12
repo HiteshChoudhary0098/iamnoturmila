@@ -14,8 +14,8 @@ export default function App() {
   return (
     <>
       <Nav />
-      <div className="year-rail left">2022</div>
-      <div className="year-rail right">2022</div>
+      <div className="year-rail left">{new Date().getFullYear()}</div>
+      <div className="year-rail right">{new Date().getFullYear()}</div>
 
       <Cover />
       <About />
