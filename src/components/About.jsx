@@ -4,6 +4,11 @@ export default function About() {
       <div className="inner">
         <div className="grid">
           <div className="portrait reveal">
+            <img
+              className="portrait-img"
+              src="/urmila-profile.jpeg"
+              alt="Urmila Choudhary"
+            />
             <div className="step" style={{ height: "18%", bottom: 0 }} />
             <div className="step" style={{ height: "30%", bottom: "18%" }} />
             <div className="step" style={{ height: "44%", bottom: "48%" }} />
