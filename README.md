@@ -1,6 +1,6 @@
-# MUSE. — Urmila Choudhary Portfolio
+# UWillC. — Urmila Choudhary Portfolio
 
-A single-page portfolio site for Urmila Choudhary (MUSE.), built with **React + Vite** and managed with **pnpm**. It recreates the original deck slides — cover, about, services, section dividers, and the La Carreta case study — as a scrolling experience.
+A single-page portfolio site for Urmila Choudhary (UWillC.), built with **React + Vite** and managed with **pnpm**. It recreates the original deck slides — cover, about, services, section dividers, and the La Carreta case study — as a scrolling experience.
 
 ## Stack
 - React 18
@@ -26,7 +26,7 @@ src/
   hooks/
     useReveal.js          # IntersectionObserver scroll-reveal
   components/
-    Wordmark.jsx          # "MUSE." logo
+    Wordmark.jsx          # "UWillC." logo
     Nav.jsx               # sticky nav + mobile menu
     Cover.jsx             # PORTFOLIO 2022 hero
     About.jsx             # Urmila Choudhary bio
@@ -41,4 +41,4 @@ src/
 
 ## Notes
 - The portrait and feed tiles are CSS recreations (colored blocks + text). Drop real `<img>` assets into `public/` and swap them in `About.jsx` / `Project.jsx` when ready.
-- The "MUSE." / "Urmila Choudhary" letterforms in the source design use a paid font (looks like *Hatton*). Playfair Display is the closest free stand-in; license and self-host the real font for a pixel-perfect match.
+- The "UWillC." / "Urmila Choudhary" letterforms in the source design use a paid font (looks like *Hatton*). Playfair Display is the closest free stand-in; license and self-host the real font for a pixel-perfect match.
